@@ -5,7 +5,6 @@
  */
 class ItemController extends AppController {
     var $name = "Item";
-	var $n = 2;
     var $scaffold;
 }
 ?>
